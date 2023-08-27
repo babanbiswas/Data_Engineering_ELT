@@ -18,9 +18,9 @@ print(api_data)
 
 # Snowflake connection parameters
 snowflake_config = {
-    "user": "bob123",
-    "password": "Bob123*#",
-    "account": "am33284.central-india.azure",
+    "user": "****",
+    "password": "****",
+    "account": "****",
     "warehouse": "COMPUTE_WH",
     "database": "FIRST_ELT_PR",
     "schema": "FIRST_ELT_SC"
